@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello
-=======
-blah
->>>>>>> upstream/master
